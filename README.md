@@ -59,5 +59,6 @@ Usage:
   d:\sources\project2\project2.rc=*.*.*.+
 
   a g_format in the list file overrides the g_format from the command line
+  
   using the -l option, list files themselves can be modified
 
